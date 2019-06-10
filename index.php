@@ -18,9 +18,9 @@
 */
  class Sql
 {
-	protected $dbname = 'avito';
-	protected $dbuser = 'avito'     ;
-	protected $dbpass = 'adsl17'    ;
+	protected $dbname = '';
+	protected $dbuser = ''     ;
+	protected $dbpass = ''    ;
 	protected $dbhost = 'localhost' ; 
 	public $mysqli;
 	
